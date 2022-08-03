@@ -1,0 +1,47 @@
+[
+    {
+        "id" : 1,
+        "0": "Encoding and Changing of Grades for Non-Graduating",
+        "1": "Encoding and Changing of Grades for Non-Graduating Students, June 27-July 3, 2022 (2nd Sem)",
+        "2": "2022-08-03 14:34:24",
+        "news_title": "Encoding and Changing of Grades for Non-Graduating",
+        "news_desc": "Encoding and Changing of Grades for Non-Graduating Students, June 27-July 3, 2022 (2nd Sem)",
+        "validuntil": "2022-08-03 14:34:24"
+    },
+    {
+        "id" : 2,
+        "0": "Under Graduate Summer Classes Enrollment",
+        "1": "Under Graduate Summer Classes Enrollment starts on July 4, 2022",
+        "2": "2022-08-04 14:06:38",
+        "news_title": "Under Graduate Summer Classes Enrollment",
+        "news_desc": "Under Graduate Summer Classes Enrollment starts on July 4, 2022",
+        "validuntil": "2022-08-04 14:06:38"
+    },
+    {
+        "id" : 3,
+        "0": "54th Commencement Exercises",
+        "1": "54th Commencement Exercises on August 5, 2022",
+        "2": "2022-08-05 01:00:48",
+        "news_title": "54th Commencement Exercises",
+        "news_desc": "54th Commencement Exercises on August 5, 2022",
+        "validuntil": "2022-08-05 01:00:48"
+    },
+    {
+        "id": 4,
+        "0": "University Council Meeting to Approve Candidates f",
+        "1": "University Council Meeting to Approve Candidates for Graduation, July 22, 2022",
+        "2": "2022-08-22 14:34:24",
+        "news_title": "University Council Meeting to Approve Candidates f",
+        "news_desc": "University Council Meeting to Approve Candidates for Graduation, July 22, 2022",
+        "validuntil": "2022-08-22 14:34:24"
+    },
+    {
+        "id": 5,
+        "0": "Under Graduate Summer Classes",
+        "1": "Under Graduate Summer Classes starts on July 11, 2022",
+        "2": "2022-09-06 01:00:48",
+        "news_title": "Under Graduate Summer Classes",
+        "news_desc": "Under Graduate Summer Classes starts on July 11, 2022",
+        "validuntil": "2022-09-06 01:00:48"
+    }
+]

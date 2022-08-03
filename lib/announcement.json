@@ -1,0 +1,29 @@
+
+{
+    "news": [
+        {
+            "id": 1,
+            "title": "Advisory: Telephone service disruption",
+            "date": "10 MAY 2022",
+            "brief_desc": "The Pamantasan ng Lungsod ng Maynila will be experiencing telephone service disruption starting May 10, 2022. However, client services shall continue. The following offices may be reached via contact details listed below.",
+            "long_desc": "The Pamantasan ng Lungsod ng Maynila will be experiencing telephone service disruption starting May 10, 2022. However, client services shall continue. The following offices may be reached via contact details listed below. Updates will be regularly posted until the phone service is restored. Thank you for your understanding.",
+            "image_link": "#"
+        },
+        {
+            "id": 2,
+            "title": "Classes, work suspended on Eid'l Fitr (May 3, 2022)",
+            "date": "29 APRIL 2022",
+            "brief_desc": "The Pamantasan ng Lungsod ng Maynila joins our Muslim brothers and sisters in the observance of Eid’l Fitr or the Feast of Ramadan on Tuesday, May 3, 2022.",
+            "long_desc": "The Pamantasan ng Lungsod ng Maynila joins our Muslim brothers and sisters in the observance of Eid’l Fitr or the Feast of Ramadan on Tuesday, May 3, 2022. All classes and work in PLM are suspended on Tuesday in observance of the national holiday. Eid Mubarak! #WalangPasok",
+            "image_link": "#"
+        },
+        {
+            "id": 3,
+            "title": "Half-day suspension of face-to-face classes, work on April 8, 2022",
+            "date": "07 APRIL 2022",
+            "brief_desc": "Face-to-face classes and onsite work in PLM are suspended tomorrow, April 8, 2022, starting 1 PM to make way for Manila Health Department’s fumigation operations inside the campus.",
+            "long_desc": "Face-to-face classes and onsite work in PLM are suspended tomorrow, April 8, 2022, starting 1 PM to make way for Manila Health Department’s fumigation operations inside the campus. All employees will continue working via online platform during the afternoon.",
+            "image_link": "#"
+        }
+    ]
+}
